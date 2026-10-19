@@ -1,0 +1,10 @@
+# API (Python)
+backend/.venv/
+__pycache__/
+*.pyc
+
+# 저장소 파일 (D-009)
+backend/data/
+
+# 화면 (Node) — frontend/.gitignore 에도 있다
+node_modules/
